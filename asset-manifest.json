@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/azon/static/css/main.f3201ac2.css",
+    "main.js": "/azon/static/js/main.48d28a6e.js",
+    "static/js/787.fc8eec31.chunk.js": "/azon/static/js/787.fc8eec31.chunk.js",
+    "static/media/mainHome3.png": "/azon/static/media/mainHome3.f1f3f6c661f41e21d91c.png",
+    "static/media/VIP.jpg": "/azon/static/media/VIP.ca09daa3f408cc5b2bc3.jpg",
+    "static/media/ourfeature.png": "/azon/static/media/ourfeature.0f3041e7d95499f865d3.png",
+    "static/media/mainHome.jpg": "/azon/static/media/mainHome.4b08ac3927563a8d8ad8.jpg",
+    "static/media/contact.png": "/azon/static/media/contact.20f694d5db0299037cdf.png",
+    "static/media/services1.jpg": "/azon/static/media/services1.4ff1fbfcbb9d3b35657f.jpg",
+    "static/media/Home11.jpg": "/azon/static/media/Home11.2c71eb536d0582b38eb7.jpg",
+    "static/media/servicesleftimg.png": "/azon/static/media/servicesleftimg.e9949247259c52ee89c0.png",
+    "static/media/Home22.jpg": "/azon/static/media/Home22.30ea3d670cd7708f5dcd.jpg",
+    "static/media/fa-solid-900.ttf": "/azon/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/azon/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/azon/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/azon/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/azon/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/azon/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/azon/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/azon/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/azon/index.html",
+    "main.f3201ac2.css.map": "/azon/static/css/main.f3201ac2.css.map",
+    "main.48d28a6e.js.map": "/azon/static/js/main.48d28a6e.js.map",
+    "787.fc8eec31.chunk.js.map": "/azon/static/js/787.fc8eec31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3201ac2.css",
+    "static/js/main.48d28a6e.js"
+  ]
+}
