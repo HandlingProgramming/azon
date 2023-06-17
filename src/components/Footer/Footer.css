@@ -1,0 +1,56 @@
+.main_footer{
+    /* margin-left: 7% !important; */
+    /* margin-right: 7% !important; */
+    width: 100%;
+    /* max-width: 100%; */
+}
+/* @media screen and (max-width: 644px) {
+    .header_main_p {
+    margin-top: 20% !important;
+color: rgb(255, 255, 255);
+       }
+    } */
+
+
+    .footer_facebook , .footer_twitter , .footer_instagram , .footer_whatsapp{
+        background: -webkit-linear-gradient(rgb(241,220,113), rgb(169,120,49));
+    }
+
+    .footer_facebook:hover{
+        background:  #3b5998 !important;
+    }
+
+.footer_twitter:hover{
+background: #55acee !important;
+}
+.footer_instagram :hover{
+background: #ac2bac !important;
+}
+.footer_whatsapp:hover{
+    background: #188f35 !important;
+
+}
+
+    .heart_icon{
+       color: red !important;
+    }
+    .last_footer{
+        font-size: 20px !important;
+        color:  rgb(169,120,49)  !important;
+        /* background-color:  rgba(169, 121, 49, 0.062) !important; */
+        background: rgb(32,32,32) !important;
+    }
+
+
+.footer_numbers{
+    font-size: 20px !important;
+    color: rgb(32,32,32);
+    /* background: -webkit-linear-gradient(rgb(241,220,113), rgb(169,120,49));
+    background-clip: text;
+    -webkit-text-fill-color: transparent; */
+    border: 2px solid  rgb(241,220,113);
+    padding: 20px !important;
+     box-shadow: 0 0 15px #FFE469;
+    /* transition: all 0.75s ease;  */
+}
+

@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&family=Noto+Sans+Arabic:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=Kalam&family=Noto+Kufi+Arabic:wght@800&family=Noto+Sans+Arabic:wght@900&display=swap');
+
+.header_main{
+    margin-top: 5% !important;
+    /* background-color: rgb(0, 0, 0); */
+    /* background-image: url('../../assets/Home1.jpg')  ; */
+     /* height: 100vh; */
+    /* width: 100% !important;  */
+    /* background-repeat: no-repeat;
+    background-attachment: fixed; */
+}
+@media screen and (max-width: 644px) {
+    .header_main {
+    margin-top: 20% !important;
+       }
+    }
+
+.header_main_p{
+    color: rgb(255, 255, 255);
+    /* margin-left: 70% !important; */
+    margin-right: 10% !important;
+    margin-top: 7% !important;
+    font-size: 200% !important;
+    /* font-weight: bold !important;  */
+    text-align: right !important;
+    justify-content: right !important;
+    /* font-family: 'Kalam', cursive;
+    font-family: 'Noto Sans Arabic', sans-serif;  */
+    font-family: 'Cairo', sans-serif;
+font-family: 'Kalam', cursive;
+font-family: 'Noto Kufi Arabic', sans-serif;
+font-family: 'Noto Sans Arabic', sans-serif;
+} 
+
+@media screen and (max-width: 644px) {
+    .header_main_p {
+    margin-top: 20% !important;
+color: rgb(255, 255, 255);
+       }
+    }
+
+
+
+    .header_main_p2{
+        color: rgb(255, 255, 255);
+        /* margin-left: 70% !important; */
+        margin-right: 10% !important;
+        margin-top: 7% !important;
+        font-size: 200% !important;
+        /* font-weight: bold !important;  */
+        text-align: right !important;
+        justify-content: right !important;
+        font-family: 'Cairo', sans-serif;
+        font-family: 'Kalam', cursive;
+        font-family: 'Noto Kufi Arabic', sans-serif;
+        font-family: 'Noto Sans Arabic', sans-serif;
+        } 
+
+
+.home1{
+width: 100% !important;
+height: 100% !important;
+max-width: 100% !important;
+
+}
+    
+.home2{
+    width: 100% !important;
+    height: 100% !important;
+    max-width: 100% !important;
+}
+
+
+
+.container1 {
+    /* max-width:1424px; */
+    margin-top: 10%;
+  }
+  .heroContent {
+    position: absolute;
+    top: 30%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    /* align-items:end */
+  }

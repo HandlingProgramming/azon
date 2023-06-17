@@ -5,6 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+/* background-color: black !important; */
+/* font */
+font-family: Roboto, Helvetica, Arial, sans-serif;
+background-color:  rgb(32,32,32) !important;
+
+}
+body::selection{
+  background:  rgb(169,120,49);
+  color: #ffffff;
 }
 
 code {
